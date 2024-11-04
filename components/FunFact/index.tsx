@@ -56,7 +56,7 @@ const FunFact = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
               convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
               ante in maximus.
-            </p>
+            </p><br></br><br></br><br></br>
           </motion.div>
 
           <div className="flex flex-wrap justify-center gap-8 lg:gap-42.5">
