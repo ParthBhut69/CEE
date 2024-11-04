@@ -56,7 +56,7 @@ const FunFact = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
               convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
               ante in maximus.
-            </p><br></br><br></br><br></br>
+            </p>
           </motion.div>
 
           <div className="flex flex-wrap justify-center gap-8 lg:gap-42.5">
@@ -70,7 +70,7 @@ const FunFact = () => {
                 </h3>
                 <p className="text-lg lg:text-para2">
                   {index === 0 ? "World Wide Clients" : index === 1 ? "Downloads" : "Winning Award"}
-                </p>
+                </p><br></br><br></br><br></br>
               </motion.div>
             ))}
           </div>
