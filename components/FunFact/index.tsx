@@ -70,7 +70,7 @@ const FunFact = () => {
                 </h3>
                 <p className="text-lg lg:text-para2">
                   {index === 0 ? "World Wide Clients" : index === 1 ? "Downloads" : "Winning Award"}
-                </p><br></br><br></br><br></br>
+                </p><br></br><br></br><br></br><br></br>
               </motion.div>
             ))}
           </div>
